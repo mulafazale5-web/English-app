@@ -1,0 +1,10 @@
+{
+  "name": "English Daily Coach",
+  "description": "Offline beginner-friendly English learning coach for Urdu-speaking students with daily vocabulary, phrases, grammar, conversations, quizzes, and speaking practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
